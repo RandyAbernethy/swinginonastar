@@ -6,11 +6,11 @@ s/v Swingin' on a Star website
 ## Vessel Dimensions
 
 | Dimension | Feet/Inches |
-|-----------|-------------|
+|-----------|------------:|
 |LOA        |50'          |
 |Waterline  |47'          |
 |Beam       |26' 3"       |
-|Draft      |4' 6"`*`       |
+|Draft      |4' 6"`*`     |
 |Air Draft  |72'          |
 |Mast       |64'          |
 
@@ -20,7 +20,7 @@ s/v Swingin' on a Star website
 ## Rig Dimensions
 
 | Dimension          | Feet/Inches |
-|--------------------|-------------|
+|--------------------|------------:|
 |Mast Height (I)     |64'          |
 |Mast to Bow (J)     |             |
 |Boom to Masthead (P)|             |
@@ -30,7 +30,7 @@ s/v Swingin' on a Star website
 ## Sail Dimensions
 
 |Sail                 |Area in SqFt|
-|---------------------|------------|
+|---------------------|-----------:|
 |Main                 |947         |
 |Genoa                |602         |
 |Asymetrical Spinnaker|1,862       |
