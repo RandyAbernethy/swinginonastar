@@ -10,11 +10,11 @@ s/v Swingin' on a Star website
 |LOA        |50'          |
 |Waterline  |47'          |
 |Beam       |26' 3"       |
-|Draft      |4' 6"*       |
+|Draft      |4' 6"`*`       |
 |Air Draft  |72'          |
 |Mast       |64'          |
 
-* With nominal load, lightship draft is 4'2"
+`*` With nominal load, lightship draft is 4'2"
 
 
 ## Rig Dimensions
