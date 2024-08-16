@@ -6,7 +6,7 @@ s/v Swingin' on a Star website
 ## Vessel Dimensions
 
 | Dimension | Feet/Inches |
-|-----------|------------:|
+|-----------|:-----------:|
 |LOA        |50'          |
 |Waterline  |47'          |
 |Beam       |26' 3"       |
@@ -20,7 +20,7 @@ s/v Swingin' on a Star website
 ## Rig Dimensions
 
 | Dimension          | Feet/Inches |
-|--------------------|------------:|
+|--------------------|:-----------:|
 |Mast Height (I)     |64'          |
 |Mast to Bow (J)     |             |
 |Boom to Masthead (P)|             |
