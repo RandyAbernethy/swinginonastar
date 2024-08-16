@@ -5,13 +5,13 @@ s/v Swingin' on a Star website
 
 ## Vessel Weights
 
-|Measure         | lbs         |  Tons |
-|----------------|------------:|------:|
-|Lightship Weight|      27,558 | 13.78 |
-|Max Crew Weight |       1,653 |  0.83 |
-|Max Cargo Weight|       8,818 |  4.41 |
-|----------------|-------------|-------|
-|Max Total Weight|      38,029 | 19.01 |
+|Measure         | lbs         |  Tons | Metric Tons |
+|----------------|------------:|------:|------------:|
+|Lightship Weight|      27,558 | 13.78 |       12.50 |
+|Max Crew Weight |       1,653 |  0.83 |        0.75 |
+|Max Cargo Weight|       8,818 |  4.41 |        4.00 |
+|----------------|-------------|-------|-------------|
+|Max Total Weight|      38,029 | 19.01 |       17.25 |
 
 
 ## Vessel Dimensions
