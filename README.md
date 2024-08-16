@@ -3,6 +3,17 @@
 s/v Swingin' on a Star website
 
 
+## Vessel Weights
+
+|Measure         | lbs         |
+|----------------|------------:|
+|Lightship Weight|      27,558 |
+|Max Crew Weight |       1,653 |
+|Max Cargo Weight|       8,818 |
+|----------------|-------------|
+|Max Total Weight|      38,029 |
+
+
 ## Vessel Dimensions
 
 | Dimension | Feet/Inches |
@@ -29,7 +40,7 @@ s/v Swingin' on a Star website
 
 ## Sail Dimensions
 
-|Sail                 |Area in SqFt|
+| Sail                |Area in SqFt|
 |---------------------|-----------:|
 |Main                 |947         |
 |Genoa                |602         |
