@@ -14,7 +14,7 @@ s/v Swingin' on a Star website
 |Air Draft  |72'          |
 |Mast       |64'          |
 
-`*` With nominal load, lightship draft is 4'2"
+`*` With normal load (crew, stores, fluids at half tank, etc.), lightship draft is 4'2"
 
 
 ## Rig Dimensions
