@@ -2,6 +2,7 @@
 
 s/v Swingin' on a Star website
 
+
 ## Vessel Dimensions
 
 | Dimension | Feet/Inches |
@@ -9,9 +10,11 @@ s/v Swingin' on a Star website
 |LOA        |50'          |
 |Waterline  |47'          |
 |Beam       |26' 3"       |
-|Draft      |4' 6"        |
+|Draft      |4' 6"*       |
 |Air Draft  |72'          |
 |Mast       |64'          |
+
+* With nominal load, lightship draft is 4'2"
 
 
 ## Rig Dimensions
@@ -22,3 +25,13 @@ s/v Swingin' on a Star website
 |Mast to Bow (J)     |             |
 |Boom to Masthead (P)|             |
 |Boom Length (E)     |             |
+
+
+## Sail Dimensions
+
+|Sail                 |Area in SqFt|
+|---------------------|------------|
+|Main                 |947         |
+|Genoa                |602         |
+|Asymetrical Spinnaker|1,862       |
+|Storm Jib            |140         |
