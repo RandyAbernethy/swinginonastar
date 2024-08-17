@@ -45,9 +45,9 @@ s/v Swingin' on a Star Specifications
 | Dimension          | Feet/Inches |
 |--------------------|:-----------:|
 |Mast Height (I)     |64'          |
-|Mast to Bow (J)     |             |
-|Boom to Masthead (P)|             |
-|Boom Length (E)     |             |
+|Mast to Bow (J)     |16'3"        |
+|Boom to Masthead (P)|59'4"        |
+|Boom Length (E)     |23'          |
 
 
 ### Sail Dimensions
