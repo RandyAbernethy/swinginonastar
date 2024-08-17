@@ -5,14 +5,15 @@ s/v Swingin' on a Star website
 
 ## Vessel Measurements
 
-|Measure        | Volume    | Description             |
-|---------------|-----------|-------------------------|
-|Gross Tonnage  |	45 GT \*  | Overall Internal Volume |
-|Net Tonnage    |	36 NT \*\*| Cargo Capacity Volume   |
-|Net Tonnage    |	36 NT \*\*| Cargo Capacity Volume   |
+|Measure                    | Volume       | Description               |
+|---------------------------|--------------|---------------------------|
+|Gross Register Tonnage     |	45 GRT \*    | Overall Internal Volume   |
+|Operating Register Tonnage |	9 ORT \*\*   | Operating Spaces Volume   |
+|Net Register Tonnage       |	36 NRT \*\*\*| Net Cargo/Passanger Volume|
 
-\* `GT = IV / 100`, where IV is the sum of the vessel's enclosed spaces in Cubic Feet  
-\*\* `NT = GT - CV`, where CV is the volume consumed by crew, accomodations, machinery, stores, etc. in Cubic Feet divided by 100
+\* `GRT = IV / 100`, where IV is the sum of the vessel's enclosed spaces in Cubic Feet  
+\*\* `ORT = OV / 100`, where OV is the volume consumed by crew accomodation, machinery and navigation spaces in Cubic Feet  
+\*\* `NRT = GRT - ORT`
 
 
 |Ship's Weight     | lbs         |  Tons | Metric Tons | Description                                    |
