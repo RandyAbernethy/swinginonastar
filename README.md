@@ -10,7 +10,7 @@ s/v Swingin' on a Star website
 |Gross Tonnage  |	45 GRT \*  | Overall Internal Volume |
 |Net Tonnage    |	36 NRT \*\*| Carrying Capacity Volume|
 
-\* GRT is determined by dividing the sum of the vessel's enclosed spaces in CuFt by 100 
+\* GRT is determined by dividing the sum of the vessel's enclosed spaces in CuFt by 100  
 \*\* NRT is the volume left after subtracting crew, accomodations, machinery, stores, etc. from GRT
 
 
