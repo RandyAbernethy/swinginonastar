@@ -1,6 +1,6 @@
 # Swingin on a Star
 
-s/v Swingin' on a Star website
+s/v Swingin' on a Star Specifications
 
 **Make: St Francis Marine**  
 **Model: St Francis 50**
