@@ -23,14 +23,13 @@ s/v Swingin' on a Star website
 |Max Total Weight  |      38,029 | 19.01 |       17.25 |Max weight of Vessel + Crew + Cargo             |
 
 
-| Dimension | Feet/Inches |
-|-----------|:-----------:|
-|LOA        |50'          |
-|Waterline  |47'          |
-|Beam       |26' 3"       |
-|Draft      |4' 6" \*     |
-|Air Draft  |72'          |
-|Mast       |64'          |
+| Dimension          | Feet/Inches |
+|--------------------|:-----------:|
+|Length Overall (LOA)|50'          |
+|Waterline           |47'          |
+|Beam                |26' 3"       |
+|Draft               |4' 6" \*     |
+|Air Draft           |72'          |
 
 \* With normal load (crew, stores, fluids at half tank, etc.), lightship draft is 4'2"
 
