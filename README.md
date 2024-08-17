@@ -2,10 +2,12 @@
 
 s/v Swingin' on a Star website
 
+**Make: St Francis Marine**  
+**Model: St Francis 50**
 
 ## Vessel Measurements
 
-|Measure                    | Volume       | Description               |
+|Measure (per USCG)         | Volume       | Description               |
 |---------------------------|--------------|---------------------------|
 |Gross Register Tonnage     |	45 GRT \*    | Overall Internal Volume   |
 |Operating Register Tonnage |	9 ORT \*\*   | Operating Spaces Volume   |
