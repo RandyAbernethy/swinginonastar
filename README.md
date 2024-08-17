@@ -16,13 +16,13 @@ s/v Swingin' on a Star website
 \*\*\* `NRT = GRT - ORT`
 
 
-|Ship's Weight     | lbs         |  Tons | Metric Tons | Description                                    |
-|------------------|------------:|------:|------------:|------------------------------------------------|
-|Lightship Weight  |      27,558 | 13.78 |       12.50 |Weight empty, without fluids, crew, cargo, etc. |
-|Max Crew Weight   |       1,653 |  0.83 |        0.75 |10 x 165lbs people                              |
-|Max Cargo Weight  |       8,818 |  4.41 |        4.00 |Fuel, water, stores, passengers, etc.                       |
-|Deadweight Tonnage|      10,471 |  5.24 |        4.75 |DWT: Max weight of Crew + Cargo                 |           
-|Max Total Weight  |      38,029 | 19.01 |       17.25 |Max weight of Vessel + Crew + Cargo             |
+|Ship's Weight           | lbs    |  Tons | Metric Tons | Description                                    |
+|------------------------|-------:|------:|------------:|------------------------------------------------|
+|Lightship Weight (LSW)  | 27,558 | 13.78 |       12.50 |Weight empty, without fluids, crew, cargo, etc. |
+|Max Crew Weight         |  1,653 |  0.83 |        0.75 |10 x 165lbs people                              |
+|Max Cargo Weight        |  8,818 |  4.41 |        4.00 |Fuel, water, stores, passengers, etc.           |
+|Deadweight Tonnage (DWT)| 10,471 |  5.24 |        4.75 |Max weight of Crew + Cargo                      |           
+|Max Total Weight        | 38,029 | 19.01 |       17.25 |Max weight of Vessel + Crew + Cargo             |
 
 
 | Dimension          | Feet/Inches |
