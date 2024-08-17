@@ -3,7 +3,10 @@
 s/v Swingin' on a Star website
 
 
-## Vessel Weights
+## Vessel Measurements
+
+
+### Vessel Weights
 
 |Measure         | lbs         |  Tons | Metric Tons |
 |----------------|------------:|------:|------------:|
@@ -14,7 +17,7 @@ s/v Swingin' on a Star website
 |Max Total Weight|      38,029 | 19.01 |       17.25 |
 
 
-## Vessel Dimensions
+### Vessel Dimensions
 
 | Dimension | Feet/Inches |
 |-----------|:-----------:|
@@ -28,7 +31,7 @@ s/v Swingin' on a Star website
 `*` With normal load (crew, stores, fluids at half tank, etc.), lightship draft is 4'2"
 
 
-## Rig Dimensions
+### Rig Dimensions
 
 | Dimension          | Feet/Inches |
 |--------------------|:-----------:|
@@ -38,7 +41,7 @@ s/v Swingin' on a Star website
 |Boom Length (E)     |             |
 
 
-## Sail Dimensions
+### Sail Dimensions
 
 | Sail                |Area in SqFt|
 |---------------------|-----------:|
@@ -46,3 +49,21 @@ s/v Swingin' on a Star website
 |Genoa                |602         |
 |Asymetrical Spinnaker|1,862       |
 |Storm Jib            |140         |
+
+
+## Auxiliary Propulsion
+
+|.                    |.                          |
+|---------------------|---------------------------|
+|Auxiliaries          |2                          |
+|Make                 |Yanmar                     |
+|Model                |4JH4CE-XD50                |
+|Cooling              |Fresh & Raw Water          |
+|Drive                |Saildrive                  |
+|Make                 |Yanmar                     |
+|Model                |SD50                       |
+|Props                |Varifold 3 Blade 18" x 15" |
+|Max RPM              |3,000                      |
+|Max Auxiliary Speed  |10 knots                   |
+
+
