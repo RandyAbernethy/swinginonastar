@@ -3,8 +3,8 @@
 s/v Swingin' on a Star Specifications
 
 **Make: St Francis Marine**  
-**Model: St Francis 50**
-**Model Year: 2006**
+**Model: St Francis 50**  
+**Model Year: 2006**  
 
 
 ## Vessel Measurements
