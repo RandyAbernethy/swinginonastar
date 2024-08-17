@@ -13,7 +13,7 @@ s/v Swingin' on a Star website
 
 \* `GRT = IV / 100`, where IV is the sum of the vessel's enclosed spaces in Cubic Feet  
 \*\* `ORT = OV / 100`, where OV is the volume consumed by crew accomodation, machinery and navigation spaces in Cubic Feet  
-\*\* `NRT = GRT - ORT`
+\*\*\* `NRT = GRT - ORT`
 
 
 |Ship's Weight     | lbs         |  Tons | Metric Tons | Description                                    |
