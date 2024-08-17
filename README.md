@@ -5,30 +5,34 @@ s/v Swingin' on a Star website
 
 ## Vessel Measurements
 
+|Measure        | Volume     | Description             |
+|---------------|------------|-------------------------|
+|Gross Tonnage  |	45 GRT \*  | Overall Internal Volume |
+|Net Tonnage    |	36 NRT \*\*| Carrying Capacity Volume|
 
-### Vessel Weights
-
-|Measure         | lbs         |  Tons | Metric Tons |
-|----------------|------------:|------:|------------:|
-|Lightship Weight|      27,558 | 13.78 |       12.50 |
-|Max Crew Weight |       1,653 |  0.83 |        0.75 |
-|Max Cargo Weight|       8,818 |  4.41 |        4.00 |
-|----------------|-------------|-------|-------------|
-|Max Total Weight|      38,029 | 19.01 |       17.25 |
+\* GRT is determined by dividing the sum of the vessel's enclosed spaces in CuFt by 100 
+\*\* NRT is the volume left after subtracting crew, accomodations, machinery, stores, etc. from GRT
 
 
-### Vessel Dimensions
+|Ship's Weight     | lbs         |  Tons | Metric Tons |
+|------------------|------------:|------:|------------:|
+|Lightship Weight  |      27,558 | 13.78 |       12.50 |
+|Max Crew Weight   |       1,653 |  0.83 |        0.75 |
+|Max Cargo Weight  |       8,818 |  4.41 |        4.00 |
+|Deadweight Tonnage|      10,471 |  5.24 |        4.75 |
+|Max Total Weight  |      38,029 | 19.01 |       17.25 |
+
 
 | Dimension | Feet/Inches |
 |-----------|:-----------:|
 |LOA        |50'          |
 |Waterline  |47'          |
 |Beam       |26' 3"       |
-|Draft      |4' 6"`*`     |
+|Draft      |4' 6" \*     |
 |Air Draft  |72'          |
 |Mast       |64'          |
 
-`*` With normal load (crew, stores, fluids at half tank, etc.), lightship draft is 4'2"
+\* With normal load (crew, stores, fluids at half tank, etc.), lightship draft is 4'2"
 
 
 ### Rig Dimensions
