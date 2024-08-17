@@ -11,8 +11,8 @@ s/v Swingin' on a Star website
 |Operating Register Tonnage |	9 ORT \*\*   | Operating Spaces Volume   |
 |Net Register Tonnage       |	36 NRT \*\*\*| Net Cargo/Passanger Volume|
 
-\* `GRT = IV / 100`, where IV is the sum of the vessel's enclosed spaces in Cubic Feet  
-\*\* `ORT = OV / 100`, where OV is the volume consumed by crew accomodation, machinery and navigation spaces in Cubic Feet  
+\* `GRT = ES / 100`, where ES is the sum of the vessel's Enclosed Spaces in Cubic Feet  
+\*\* `ORT = OV / 100`, where OV is the Operating Volume consumed by crew, machinery and navigation spaces in Cubic Feet  
 \*\*\* `NRT = GRT - ORT`
 
 
