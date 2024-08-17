@@ -10,8 +10,8 @@ s/v Swingin' on a Star website
 |Gross Tonnage  |	45 GT \*  | Overall Internal Volume |
 |Net Tonnage    |	36 NT \*\*| Carrying Capacity Volume|
 
-\* GT is determined by dividing the sum of the vessel's enclosed spaces in CuFt by 100  
-\*\* NT is the volume left after subtracting crew, accomodations, machinery, stores, etc. from GRT
+\* GT = `IV / 100`, where IV is the sum of the vessel's enclosed spaces in Cubic Feet
+\*\* NT is the volume left after subtracting the volume of crew, accomodations, machinery, stores, etc. from GT
 
 
 |Ship's Weight     | lbs         |  Tons | Metric Tons | Description                                    |
