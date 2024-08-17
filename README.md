@@ -4,6 +4,8 @@ s/v Swingin' on a Star website
 
 **Make: St Francis Marine**  
 **Model: St Francis 50**
+**Model Year: 2006**
+
 
 ## Vessel Measurements
 
