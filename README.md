@@ -8,7 +8,8 @@ s/v Swingin' on a Star website
 |Measure        | Volume    | Description             |
 |---------------|-----------|-------------------------|
 |Gross Tonnage  |	45 GT \*  | Overall Internal Volume |
-|Net Tonnage    |	36 NT \*\*| Carrying Capacity Volume|
+|Net Tonnage    |	36 NT \*\*| Cargo Capacity Volume   |
+|Net Tonnage    |	36 NT \*\*| Cargo Capacity Volume   |
 
 \* `GT = IV / 100`, where IV is the sum of the vessel's enclosed spaces in Cubic Feet  
 \*\* `NT = GT - CV`, where CV is the volume consumed by crew, accomodations, machinery, stores, etc. in Cubic Feet divided by 100
@@ -51,7 +52,7 @@ s/v Swingin' on a Star website
 |Main                 |947         |
 |Genoa                |602         |
 |Asymetrical Spinnaker|1,862       |
-|Storm Jib            |140         |
+|Storm Jib            |159         |
 
 
 ## Auxiliary Propulsion
