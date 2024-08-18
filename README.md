@@ -42,12 +42,13 @@ s/v Swingin' on a Star Specifications
 
 ### Rig Dimensions
 
-| Dimension          | Feet/Inches |
-|--------------------|:-----------:|
-|Mast Height (I)     |64'          |
-|Mast to Bow (J)     |16'3"        |
-|Boom to Masthead (P)|59'4"        |
-|Boom Length (E)     |23'          |
+| Dimension                           | Feet/Inches | mm    |
+|-------------------------------------|:-----------:|------:|
+|Mast Step to Genoa Halyard Block (I) |55'4"        |16,875 |
+|Mast to Genoa Clew (J)               |16'6"        |5,050  |
+|Boom to Main Halyard Block (P)       |57'3"        |17,450 |
+|Boom Length (E)                      |22'4"        |6,825  |
+|Mast Step to Boom (BAD)              |4'7"         |1,400  |
 
 
 ### Sail Dimensions
