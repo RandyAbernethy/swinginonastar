@@ -50,6 +50,15 @@ s/v Swingin' on a Star Specifications
 |Boom Length (E)                      |22'4"        |6,825  |
 |Mast Step to Boom (BAD)              |4'7"         |1,400  |
 
+| Dimension                           | Feet/Inches |
+|-------------------------------------|:-----------:|
+|Mast Height (from step)              |64'          |
+|Mast Step to Genoa Halyard Block (I) |57'          |
+|Mast to Genoa Clew (J)               |16'6"        |
+|Boom to Main Halyard Block (P)       |59'          |
+|Boom Length (E)                      |23'          |
+|Mast Step to Boom (BAD)              |4'6"         |
+
 
 ### Sail Dimensions
 
